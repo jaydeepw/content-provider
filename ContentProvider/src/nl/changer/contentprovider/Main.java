@@ -2,7 +2,7 @@ package nl.changer.contentprovider;
 
 import java.util.Date;
 
-import nl.changer.tokenprovider.ExampleProvider;
+import nl.changer.tokenprovider.TokenProvider;
 import nl.changer.tokenprovider.token.TokenColumns;
 import nl.changer.tokenprovider.token.TokenContentValues;
 import nl.changer.tokenprovider.token.TokenCursor;
@@ -68,7 +68,7 @@ public class Main extends Activity {
 
 	private void saveToken() {
 		TokenContentValues cv = new TokenContentValues();
-		cv.putAppname("jaysApp" + (int)(10 * Math.random()) ).putToken("TokenMainHoonDON" + new Date().getTime()).insert(getContentResolver());
+		cv.putAppname("jaysApp" + (int)(100 * Math.random()) ).putToken("TokenMainHoonDON" + new Date().getTime()).insert(getContentResolver());
 		// getContentResolver().insert(TokenColumns.CONTENT_URI, cv);
 	}
 }

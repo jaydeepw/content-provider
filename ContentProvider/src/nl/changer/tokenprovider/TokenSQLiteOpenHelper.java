@@ -12,8 +12,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
 import android.util.Log;
 
-public class ExampleSQLiteOpenHelper extends SQLiteOpenHelper {
-    private static final String TAG = ExampleSQLiteOpenHelper.class.getSimpleName();
+public class TokenSQLiteOpenHelper extends SQLiteOpenHelper {
+    private static final String TAG = TokenSQLiteOpenHelper.class.getSimpleName();
 
     public static final String DATABASE_FILE_NAME = "token.db";
     private static final int DATABASE_VERSION = 1;
@@ -28,7 +28,7 @@ public class ExampleSQLiteOpenHelper extends SQLiteOpenHelper {
 
     // @formatter:on
 
-    public static ExampleSQLiteOpenHelper newInstance(Context context) {
+    public static TokenSQLiteOpenHelper newInstance(Context context) {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.HONEYCOMB) {
             return newInstancePreHoneycomb(context);
         }
@@ -40,11 +40,11 @@ public class ExampleSQLiteOpenHelper extends SQLiteOpenHelper {
      * Pre Honeycomb.
      */
 
-    private static ExampleSQLiteOpenHelper newInstancePreHoneycomb(Context context) {
-        return new ExampleSQLiteOpenHelper(context, DATABASE_FILE_NAME, null, DATABASE_VERSION);
+    private static TokenSQLiteOpenHelper newInstancePreHoneycomb(Context context) {
+        return new TokenSQLiteOpenHelper(context, DATABASE_FILE_NAME, null, DATABASE_VERSION);
     }
 
-    private ExampleSQLiteOpenHelper(Context context, String name, CursorFactory factory, int version) {
+    private TokenSQLiteOpenHelper(Context context, String name, CursorFactory factory, int version) {
         super(context, name, factory, version);
     }
 
@@ -54,12 +54,12 @@ public class ExampleSQLiteOpenHelper extends SQLiteOpenHelper {
      */
 
     @TargetApi(Build.VERSION_CODES.HONEYCOMB)
-    private static ExampleSQLiteOpenHelper newInstancePostHoneycomb(Context context) {
-        return new ExampleSQLiteOpenHelper(context, DATABASE_FILE_NAME, null, DATABASE_VERSION, new DefaultDatabaseErrorHandler());
+    private static TokenSQLiteOpenHelper newInstancePostHoneycomb(Context context) {
+        return new TokenSQLiteOpenHelper(context, DATABASE_FILE_NAME, null, DATABASE_VERSION, new DefaultDatabaseErrorHandler());
     }
 
     @TargetApi(Build.VERSION_CODES.HONEYCOMB)
-    private ExampleSQLiteOpenHelper(Context context, String name, CursorFactory factory, int version, DatabaseErrorHandler errorHandler) {
+    private TokenSQLiteOpenHelper(Context context, String name, CursorFactory factory, int version, DatabaseErrorHandler errorHandler) {
         super(context, name, factory, version, errorHandler);
     }
 
@@ -80,6 +80,6 @@ public class ExampleSQLiteOpenHelper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        new ExampleSQLiteUpgradeHelper().onUpgrade(db, oldVersion, newVersion);
+        new TokenSQLiteUpgradeHelper().onUpgrade(db, oldVersion, newVersion);
     }
 }

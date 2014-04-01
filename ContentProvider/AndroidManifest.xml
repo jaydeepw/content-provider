@@ -36,7 +36,7 @@
         </activity>
 
         <provider
-            android:name="nl.changer.tokenprovider.ExampleProvider"
+            android:name="nl.changer.tokenprovider.TokenProvider"
             android:authorities="nl.changer.tokenprovider"
             android:enabled="true"
             android:exported="true"

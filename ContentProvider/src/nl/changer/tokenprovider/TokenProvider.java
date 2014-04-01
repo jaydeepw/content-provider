@@ -17,8 +17,8 @@ import android.net.Uri;
 import android.provider.BaseColumns;
 import android.util.Log;
 
-public class ExampleProvider extends ContentProvider {
-    private static final String TAG = ExampleProvider.class.getSimpleName();
+public class TokenProvider extends ContentProvider {
+    private static final String TAG = TokenProvider.class.getSimpleName();
 
     private static final String TYPE_CURSOR_ITEM = "vnd.android.cursor.item/";
     private static final String TYPE_CURSOR_DIR = "vnd.android.cursor.dir/";
@@ -41,11 +41,11 @@ public class ExampleProvider extends ContentProvider {
         URI_MATCHER.addURI(AUTHORITY, TokenColumns.TABLE_NAME + "/#", URI_TYPE_TOKEN_ID);
     }
 
-    private ExampleSQLiteOpenHelper mExampleSQLiteOpenHelper;
+    private TokenSQLiteOpenHelper mExampleSQLiteOpenHelper;
 
     @Override
     public boolean onCreate() {
-        mExampleSQLiteOpenHelper = ExampleSQLiteOpenHelper.newInstance(getContext());
+        mExampleSQLiteOpenHelper = TokenSQLiteOpenHelper.newInstance(getContext());
         return true;
     }
 
