@@ -1,0 +1,12 @@
+{
+    "toolVersion": "1.6",
+    "projectPackageId": "nl.changer.tokenprovider",
+    "authority": "nl.changer.tokenprovider",
+    "providerJavaPackage": "nl.changer.tokenprovider",
+    "providerClassName": "ExampleProvider",
+    "sqliteOpenHelperClassName": "ExampleSQLiteOpenHelper",
+    "sqliteUpgradeHelperClassName": "ExampleSQLiteUpgradeHelper",
+    "databaseFileName": "token.db",
+    "databaseVersion": 1,
+    "enableForeignKeys": true,
+}

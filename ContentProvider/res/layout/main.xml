@@ -12,9 +12,16 @@
         android:orientation="vertical" >
 
         <Button
+            android:id="@+id/store"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Click" />
+            android:text="Store" />
+
+        <Button
+            android:id="@+id/retrieve"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Retrieve" />
     </LinearLayout>
 
 </LinearLayout>
