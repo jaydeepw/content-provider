@@ -18,10 +18,10 @@
             android:text="Store" />
 
         <Button
-            android:id="@+id/retrieve"
+            android:id="@+id/list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Retrieve" />
+            android:text="List" />
     </LinearLayout>
 
 </LinearLayout>

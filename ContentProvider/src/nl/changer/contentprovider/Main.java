@@ -1,5 +1,7 @@
 package nl.changer.contentprovider;
 
+import java.util.Date;
+
 import nl.changer.tokenprovider.token.TokenColumns;
 import nl.changer.tokenprovider.token.TokenContentValues;
 import android.app.Activity;
@@ -23,6 +25,11 @@ public class Main extends Activity {
 		mContext = this;
 
 		initOnStoreClicked();
+		initOnListClicked();
+	}
+
+	private void initOnListClicked() {
+		
 	}
 
 	private void initOnStoreClicked() {
@@ -38,7 +45,7 @@ public class Main extends Activity {
 
 	private void saveToken() {
 		TokenContentValues cv = new TokenContentValues();
-		cv.putAppname("jaysApp").putAppname("TokenMainHoonDONw80nasdkfnlinas98f092").insert(getContentResolver());
+		cv.putAppname("jaysApp" + (int)(10 * Math.random()) ).putToken("TokenMainHoonDON" + new Date().getTime()).insert(getContentResolver());
 		// getContentResolver().insert(TokenColumns.CONTENT_URI, cv);
 	}
 }
