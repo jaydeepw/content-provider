@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>70CC6661-FE1C-4BCB-B0B6-031382857816</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ForgeModule</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAE12FEF-05D4-430E-8EC4-B437AB16FF31</key>
+		<string>https://github.com/trigger-corp/trigger.io-prefs</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>inspector/ios-inspector/ForgeModule/ForgeModule.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAE12FEF-05D4-430E-8EC4-B437AB16FF31</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/trigger-corp/trigger.io-prefs</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAE12FEF-05D4-430E-8EC4-B437AB16FF31</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAE12FEF-05D4-430E-8EC4-B437AB16FF31</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trigger</string>
+		</dict>
+	</array>
+</dict>
+</plist>

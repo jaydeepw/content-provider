@@ -1,0 +1,7 @@
+{
+    "description": "Module to save persistent preferences.\n\nThe keychain module provides a simple API for simple key-value preferences to be persistently saved.",
+    "min_platform_version": "v2.1.0",
+    "namespace": "keychain",
+    "platform_version": "v2.1.0",
+    "version": "0.9.7"
+}

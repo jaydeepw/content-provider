@@ -1,0 +1,895 @@
+TForgeModule
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
+cLibtool /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
+cCreateUniversalBinary /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c000000005281CA260000000000000110
+t1384237606
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005270BD19000000000000036B
+t1383120153
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005270BD1A00000000000001A0
+t1383120154
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005270BD1A0000000000075BB0
+t1383120154
+s482224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005270BD1C00000000004D63C0
+t1383120156
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005270BD1E0000000000A92BC0
+t1383120158
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005270BD1F000000000017E0C0
+t1383120159
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005270BD1F00000000001A2270
+t1383120159
+s1712752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005270BD2400000000025A5AC0
+t1383120164
+s39475904
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c0000000053174F780000000000467254
+t1394036600
+s4616788
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+c0000000053174F78000000000000010F
+t1394036600
+s271
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+c0000000053174F780000000000000220
+t1394036600
+s544
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+c0000000053174F780000000000000569
+t1394036600
+s1385
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+c0000000053174F780000000000000187
+t1394036600
+s391
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+c0000000053174F7800000000000002F6
+t1394036600
+s758
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+c0000000053174F780000000000000CFA
+t1394036600
+s3322
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+c0000000053174F78000000000000037A
+t1394036600
+s890
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+c0000000053174F78000000000000013F
+t1394036600
+s319
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+c0000000053174F7800000000000002F7
+t1394036600
+s759
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+c0000000053174F780000000000000115
+t1394036600
+s277
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+c0000000053174F7800000000000001C2
+t1394036600
+s450
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+c0000000053174F780000000000002DBE
+t1394036600
+s11710
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+c0000000053174F780000000000000212
+t1394036600
+s530
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+c0000000053174F78000000000000057F
+t1394036600
+s1407
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+c0000000053174F7800000000000000A2
+t1394036600
+s162
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+c0000000053174F780000000000000103
+t1394036600
+s259
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+c0000000053174F780000000000000CDD
+t1394036600
+s3293
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+c0000000053174F780000000000000182
+t1394036600
+s386
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+c0000000053174F780000000000000149
+t1394036600
+s329
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c0000000053173D500000000000000159
+t1394031952
+s345
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+c0000000053174D4A0000000000000997
+t1394036042
+s2455
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+c0000000053174D3F00000000000032A8
+t1394036031
+s12968
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList
+c0000000053174EF00000000000000164
+t1394036464
+s356
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o
+t1394115926
+s52744
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o
+t1394119071
+s49396
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+t1394119071
+s102736
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList
+c0000000053174EF00000000000000166
+t1394036464
+s358
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o
+t1394115926
+s52744
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o
+t1394119071
+s49396
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+t1394119071
+s102736
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+t1394118572
+s204384
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+c00000000531885510000000000000232
+t1394115921
+s562
+
+N/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+c0000000053189199000000000000055A
+t1394119065
+s1370
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c0000000053174F780000000000467254
+t1394036600
+s4616788
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+c0000000053174F78000000000000010F
+t1394036600
+s271
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+c0000000053174F780000000000000220
+t1394036600
+s544
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+c0000000053174F780000000000000569
+t1394036600
+s1385
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+c0000000053174F780000000000000187
+t1394036600
+s391
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+c0000000053174F7800000000000002F6
+t1394036600
+s758
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+c0000000053174F780000000000000CFA
+t1394036600
+s3322
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+c0000000053174F78000000000000037A
+t1394036600
+s890
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+c0000000053174F78000000000000013F
+t1394036600
+s319
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+c0000000053174F7800000000000002F7
+t1394036600
+s759
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+c0000000053174F780000000000000115
+t1394036600
+s277
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+c0000000053174F7800000000000001C2
+t1394036600
+s450
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+c0000000053174F780000000000002DBE
+t1394036600
+s11710
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+c0000000053174F780000000000000212
+t1394036600
+s530
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+c0000000053174F78000000000000057F
+t1394036600
+s1407
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+c0000000053174F7800000000000000A2
+t1394036600
+s162
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+c0000000053174F780000000000000103
+t1394036600
+s259
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+c0000000053174F780000000000000CDD
+t1394036600
+s3293
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+c0000000053174F780000000000000182
+t1394036600
+s386
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+c0000000053174F780000000000000149
+t1394036600
+s329
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c0000000053173D500000000000000159
+t1394031952
+s345
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+c0000000053174D4A0000000000000997
+t1394036042
+s2455
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+c0000000053174D3F00000000000032A8
+t1394036031
+s12968
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList
+c000000005318F07E000000000000017A
+t1394143358
+s378
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o
+t1394143358
+s52776
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o
+t1394143358
+s49440
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+t1394143358
+s102808
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList
+c000000005318F07E000000000000017C
+t1394143358
+s380
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o
+t1394143358
+s52776
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o
+t1394143358
+s49440
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+t1394143358
+s102808
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+t1394143358
+s205664
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+c00000000531885510000000000000232
+t1394115921
+s562
+
+N/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+c0000000053189199000000000000055A
+t1394119065
+s1370
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch
+t1394115760
+s5704152
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch
+t1394115760
+s5704020
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch
+t1394143358
+s5704604
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch
+t1394037351
+s5705332
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch
+t1394143358
+s5704740
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch
+t1394037351
+s5705196
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch
+t1394115895
+s5706036
+
+N/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch
+t1394115895
+s5706160
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd87eae882ac9b841^badcbc882ac9b841^---0#1#1#--18"Check dependencies36"24BFC4CB-DF44-49B5-BABC-8B44F953BAAC-
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808726.235976
+e415808726.440851
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m195"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler40dd3cd6bcc8b841^72dd70d6bcc8b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m0000000000000000^4176"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.dia -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o36"A13EED46-79CD-454E-988E-4B80DF1975E2-
+bC26DE442-D822-4512-9F35-2FC0446D1544
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.772073
+e415836158.949088
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m195"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6af9c5fe27c9b841^69fcf2fe27c9b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m0000000000000000^4308"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o UICKeyChainStore.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.dia -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/UICKeyChainStore.o36"14F53859-049B-4D73-AFDF-5DFC12A7236B-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415811871.519449
+e415811871.592243
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m187"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c5a851fc9c8b841^8d96971fc9c8b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m0000000000000000^4152"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.dia -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o36"BA4B0533-C071-479D-9109-D65E56AAD00E-
+b09A99D54-5241-4C52-A513-C31795778D49
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.771854
+e415836158.866233
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m187"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3601c6fe27c9b841^e8c1ddfe27c9b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m0000000000000000^4284"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o keychain_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.dia -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/keychain_API.o36"6D3CC4C0-7DA7-43AD-B663-F66874555D0C-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808726.238163
+e415808726.429254
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m197"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd3693dd6bcc8b841^c0236ed6bcc8b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m0000000000000000^4183"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.dia -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o36"101520F9-286E-483D-84BC-374C06860EB5-
+bC26DE442-D822-4512-9F35-2FC0446D1544
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.773119
+e415836158.949085
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m197"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler9049c6fe27c9b841^d3f7f2fe27c9b841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m0000000000000000^4315"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o UICKeyChainStore.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.dia -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.m -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/UICKeyChainStore.o36"CD49CE0F-F771-4A16-A491-DF217495C9C6-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415811871.519831
+e415811871.592283
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m189"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler876b851fc9c8b841^22a7971fc9c8b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m0000000000000000^4159"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.dia -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/keychain_API.m -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o36"CF7D7E07-1274-42E8-B356-5C19E64CB11C-
+b09A99D54-5241-4C52-A513-C31795778D49
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.772471
+e415836158.866263
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/UICKeyChainStore.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m189"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8924c6fe27c9b841^3fc9ddfe27c9b841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m0000000000000000^4291"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o keychain_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.d --serialize-diagnostics /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.dia -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/keychain_API.m -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/keychain_API.o36"7206ABC9-42F2-4C7D-B3C3-B85BDF41B2F8-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CCreateUniversalBinary /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
+s415811871.603537
+e415811871.616116
+r1
+xCreateUniversalBinary
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Create universal binary /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a82"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s91d49a1fc9c8b841^3dba9d1fc9c8b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a0000000000000000^1571"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a36"43CF8D04-8445-401E-8A66-D4619C0588B3-
+b09A99D54-5241-4C52-A513-C31795778D49
+
+CCreateUniversalBinary /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
+s415836158.960152
+e415836158.971118
+r1
+xCreateUniversalBinary
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Create universal binary /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a82"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7se607f6fe27c9b841^e99bf8fe27c9b841^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a0000000000000000^1615"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a36"80E83E4F-3F24-4123-AB76-EB8551609689-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CLibtool /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
+s415811871.593764
+e415811871.602472
+r1
+xLibtool
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7da59981fc9c8b841^eb539a1fc9c8b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2034"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Security -framework Foundation -framework ForgeCore -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a36"9CF3760B-0835-4AFE-9D19-8033BFBA38F0-
+b09A99D54-5241-4C52-A513-C31795778D49
+
+CLibtool /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
+s415811871.594092
+e415811871.602444
+r1
+xLibtool
+x/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s7c63981fc9c8b841^4a469a1fc9c8b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2039"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Security -framework Foundation -framework ForgeCore -o /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a36"B52DED44-E534-438F-96B6-F917C7C8E238-
+b09A99D54-5241-4C52-A513-C31795778D49
+
+CLibtool /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
+s415836158.950600
+e415836158.958901
+r1
+xLibtool
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv757b2f3fe27c9b841^d480f5fe27c9b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2078"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Security -framework Foundation -framework ForgeCore -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a36"36BD8799-0003-433F-9C88-9C32F63BF1B4-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CLibtool /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
+s415836158.950972
+e415836158.959508
+r1
+xLibtool
+x/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s23bef3fe27c9b841^2ba3f5fe27c9b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--2083"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Security -framework Foundation -framework ForgeCore -o /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a36"024DB2EF-AD3B-4F28-BCF9-707BBD54FE83-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808559.383584
+e415808560.285298
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch315"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere773622fbcc8b841^4a094930bcc8b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4184"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-burhekhbwefuioarwaerzfzshdpb/ForgeModule-Prefix.pch.pch36"B9A5330E-DB68-4874-ADBA-E83CFB6958BC-
+bC40D28A4-D376-4C7E-8823-2345D1EDED86
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808559.383348
+e415808560.285325
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch314"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera373622fbcc8b841^0d174930bcc8b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4181"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-bxecnidoalbfwwcueuyzuhrnredd/ForgeModule-Prefix.pch.pch36"12B05461-9202-4F85-BB6C-4D5074CB79C7-
+bC40D28A4-D376-4C7E-8823-2345D1EDED86
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.350046
+e415836158.770797
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch314"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler16f959fe27c9b841^9355c5fe27c9b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4280"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dsunekxhzhfmtabxvibmwijgxkjj/ForgeModule-Prefix.pch.pch36"7F3161B0-7F33-40D9-9A02-3C149ED060B9-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415730150.274798
+e415730151.191584
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch315"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler74ee46e689c7b841^6b2831e789c7b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4979"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-elbtafunxfwlyzcbzchmyprgriph/ForgeModule-Prefix.pch.pch36"38228BBA-0BB1-4832-89E8-7424E3621AF2-
+bC6C22626-B74D-41ED-85E7-11F6D46C25C0
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415836158.350268
+e415836158.757657
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch315"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compileradf959fe27c9b841^49f5c1fe27c9b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4283"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/trigger.io-keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-eydinjmqcgvwlqbugdsvlinlplza/ForgeModule-Prefix.pch.pch36"769CF45E-43D4-4243-91F7-CACA2C50190E-
+b4557F4B8-EA97-4E60-868F-F062CAC4D9E6
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415730150.274410
+e415730151.191571
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch314"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3fc446e689c7b841^6c0931e789c7b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4976"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -Ibuild -Ibuild/ForgeModule.build -Ibuild/Release-iphoneos -Ibuild/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos -Ibuild/ForgeModule.build/Release-iphonesimulator -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModuleResources.build -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7 -Ibuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s -Ibuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-fhqjcrlsdjklttatazliowkjrqnc/ForgeModule-Prefix.pch.pch36"B365F155-BA1D-40DF-8E88-E18672626F08-
+bC6C22626-B74D-41ED-85E7-11F6D46C25C0
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808695.001195
+e415808695.458492
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch314"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd9a00b7bcc8b841^426075b7bcc8b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4157"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-frdyugmzbgiwwmdloujhylmonvyf/ForgeModule-Prefix.pch.pch36"9298615C-3E9E-43CE-B242-199E7C5C2C26-
+b861C975F-7E0A-471B-BC63-5841C9D6AF15
+
+CProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415808695.001485
+e415808695.442311
+r1
+xProcessPCH
+x/var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch315"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerdd9a00b7bcc8b841^9b3c71b7bcc8b841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4160"ProcessPCH /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=4.3 -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule -F/Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.d -c /Users/rubenstolk/Sites/safety-apps/keychain/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/9k/t367_3n50n56dj06vcn1wrhw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-gftkfdfmtygnzyewfxxohsfgvuyv/ForgeModule-Prefix.pch.pch36"B0CC70ED-C3D4-4730-982F-427D4352FBC4-
+b861C975F-7E0A-471B-BC63-5841C9D6AF15
+

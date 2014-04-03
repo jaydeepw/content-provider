@@ -1,0 +1,55 @@
+.small-thumbs img {
+	display: block;
+	width: 56px;
+	border: 2px solid #20BBD6;
+	float: left;
+	margin-right: 20px;
+	border-radius:4px;
+}
+
+.small-thumbs a:hover img {
+	border: 2px solid #148BA0;
+}
+
+.small-thumbs img.end {
+	margin:0 0 20px 20px;
+}
+
+.small-thumbs.gallery a:hover img {
+	cursor:-moz-zoom-in;
+	cursor:-webkit-zoom-in;
+	cursor:-ms-zoom-in;
+	cursor:-o-zoom-in;
+	cursor:zoom-in;
+}
+
+/* ColorBox Core Style */
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{background:transparent url(../img/sprite-icons.png) no-repeat -183px -273px; width:20px; height:20px; text-indent:-9999px; cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+
+/* ColorBox User Style */
+#cboxOverlay{background:#000;}
+#colorbox{outline: 0;}
+#colorbox button { border:0; }
+#cboxTopLeft, #cboxTopRight {width:25px; height:25px;}
+#cboxMiddleLeft, #cboxMiddleRight, #cboxBottomLeft, #cboxBottomRight {width:25px;}
+#cboxTopCenter, #cboxBottomCenter {height:25px;}
+#cboxContent{background:transparent;}
+#cboxError{padding:50px; border:1px solid #ccc;}
+#cboxLoadedContent{border:5px solid #eee; border-radius:4px;}
+#cboxTitle{position:absolute; bottom:-15px; left:0; text-align:center; width:100%; color:#eee; font-size:1em;}
+#cboxCurrent{display:none !important;}
+#cboxSlideshow{position:absolute; bottom:4px; right:30px; color:#0092ef;}
+#cboxPrevious{position:absolute; bottom:50%; left:-25px; background-position:-183px -273px;}
+#cboxNext{position:absolute; bottom:50%; right:-25px; background-position:-183px -294px;}
+#cboxLoadingOverlay{background:#000;}
+#cboxClose{position:absolute; top:-20px; right:-20px; background-position:-183px -168px;}
+#cboxClose.hover{background-position:-183px -189px;}

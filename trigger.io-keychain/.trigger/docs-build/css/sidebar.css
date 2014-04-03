@@ -1,0 +1,136 @@
+.social-tab {
+        display: block;
+        height: 40px;
+        width: 40px;
+        margin-bottom: 5px;
+        background-color: #1BB8D4;
+        background-image: url('/forge-static/img/trigger-light/social-tabs.png');
+        background-repeat: no-repeat;
+        position: relative;
+        overflow: hidden;
+}
+
+.social-tab.trigger-io {
+        background-position:right -320px;
+}
+
+.social-tab.trigger-io a {
+        width:40px;
+        height:40px;
+        display:block;
+        text-indent:-9999em;
+        overflow:hidden;
+}
+
+.social-tab.twitter {
+        background-position:right -40px;
+}
+
+.social-tab.facebook {
+        background-position:right -80px;
+}
+
+.social-tab.newsletter {
+        background-position:right top;
+}
+
+.social-tab.newsletter-cta {
+        height:200px;
+        background-position:right -120px;
+}
+
+.social-tab span.twit {
+        display:block;
+        position:absolute;
+        top:10px;
+        right:70px;
+        height:40px;
+}
+
+.social-tab span.face {
+        display:block;
+        position:absolute;
+        top:10px;
+        right:40px;
+        height:40px;
+        width:100px;
+}
+
+.fb_edge_comment_widget { /* hide Facebook comment box */
+        display: none !important;
+}
+
+.social-tab #mc_signup {
+        display:block;
+        position:absolute;
+        top:5px;
+        right:45px;
+        width:255px;
+        height:40px;
+        color:#fff;
+}
+
+.social-tab #mc_signup .mergeRow, .mc_custom_border_hdr, .mc_var_label {
+        display:none;
+}
+
+/* .mc_error_msg, .mc_success_msg */ #mc_message {
+        position:fixed;
+        top:0;
+        left:0;
+        width:100%;
+        text-align:center;
+        background:#FCFCFC;
+        font-size:14px;
+        font-weight:bold;
+        height:35px;
+        line-height:35px;
+        border-bottom:1px solid #F1F1F1;
+        display:none;
+}
+
+.social-tab #mc_signup #mc_mv_EMAIL {
+        border:1px solid #fff;
+        font-size:14px;
+        font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+        padding:7px 79px 6px 5px;
+        width:170px;
+        border-radius:4px;
+}
+
+.social-tab #mc_signup #mc_mv_EMAIL:focus {
+        border-color:#138599;
+}
+
+.social-tab .button {
+        position:absolute;
+        top:2px;
+        right:2px;
+        border:0;
+        cursor:pointer;
+        background:#1BB8D4;
+        color:#fff;
+        border-radius:4px;
+        height:27px;
+        font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-weight:bold;
+        font-size:12px;
+}
+
+.social-tab.wordpress {
+        background-position:right -360px;
+}
+
+.social-tab.wordpress a {
+        width:40px;
+        height:40px;
+        display:block;
+        text-indent:-9999em;
+        overflow:hidden;
+}
+
+#social-sidebar {
+    position:fixed;
+    left:0;
+    z-index: 100;
+}

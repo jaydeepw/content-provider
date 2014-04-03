@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Trigger.io - mobile platform for web devs</title>
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Trigger Corp">
+		<meta name="robots" content="follow, index">
+
+		
+		
+		<link href="css/fontcustom.css" rel="stylesheet" type="text/css" />
+<link href="less/trigger-core.css" rel="stylesheet" type="text/css" />
+		<script   type="text/javascript" src="js/jquery-1.9.1.js" charset="utf-8"></script>
+<script   type="text/javascript" src="js/bootstrap.js" charset="utf-8"></script>
+<script   type="text/javascript" src="js/underscore.js" charset="utf-8"></script>
+<script   type="text/javascript" src="js/trigger-core.js" charset="utf-8"></script>
+
+		
+	</head>
+	<body class="">
+		
+<div class="navbar navbar-static-top navbar-inverse">
+	<div class="navbar-inner" style="padding-top:0; padding-bottom: 0;">
+		<div class="container" style="width: auto; padding: 0 20px;">
+			<a class="brand" href="#" style="background: transparent url(trigger-t.png) no-repeat 0% center; height: 50px; line-height: 53px; width: 430px; padding: 0 0 0 60px; font-size: 2em"><span style="color: rgb(253, 253, 253)">TRIGGER</span><span style="color: rgb(102,102,102)">.IO</span> <span style="color: rgb(0, 130, 153);">F<span style="font-size: 0.9em">ORGE</span></span></a>
+			<ul class="nav pull-right" style="padding-top: 5px;">
+				<li><a href="#">ACCOUNT</a></li>
+				<li><a class="toolkit" href="#">TOOLKIT</a></li>
+				<li class="active"><a href="#">MODULES</a></li>
+				<li><a href="#">DOCS</a></li>
+				<li><a href="#">SUPPORT</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="navbar navbar-static-top" style="margin-bottom: 20px;">
+	<div class="navbar-inner">
+		<div class="container" style="width: auto; padding: 0 20px;">
+			<ul class="nav pull-left" style="padding-left: 30px;">
+				
+				<li><small style="padding: 9px 15px 9px; display: block;">Module docs example page</small></li>
+				
+			</ul>
+			<ul class="nav pull-right">
+				
+				<li><a class="logout" href="#">Log out <i class="icon-signout"></i></a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+		
+
+
+		
+<div class="container" style="margin-top: 20px;">
+	<div class="row-fluid" style="margin-bottom: 20px">
+	<form class="form-search" onsubmit="return false;">
+		<div class="span10">
+			<input type="search" id="search" class="search-query span12" placeholder="Search docs and modules">
+		</div>
+		<div class="span2">
+			<input type="submit" class="btn btn-block span" value="Search">
+		</div>
+	</form>
+</div>
+
+<div class="row-fluid">
+		<h1>your_module <small>by Your project</small></h1>
+	</div>
+	
+	<div class="row-fluid">
+
+		<div class="span3">
+			<div class="well sidebar-nav">
+				<ul class="nav nav-list">
+					
+					<li><a href="#">Overview</a></li>
+					
+				</ul>
+				<ul class="nav nav-list"><li class="active"><a href="index.html">Docs</a></li><li></li></ul>
+				<ul class="nav nav-list">
+					
+					<li><a href="#">Versions</a></li>
+					
+					<!--<li><a href="/modules/prefs/feedback/">Feedback</a></li>-->
+				</ul>
+			</div><!--/.well -->
+			Currently displaying version
+			<select id="version-select">
+				
+				<option selected value="X.X">X.X  (current)</option>
+				
+			</select>
+		</div>
+		<div class="span9">
+			<h1 id="docs">Docs</h1>
+<p>This is where you should document your module.</p>
+<p>You can create other .md files in this folder, or even more folders containing index.md and other .md files.</p>
+<p>You can also include <code>.jpg</code>, <code>.gif</code>, and <code>.png</code> files if you would like to use images.</p>
+		</div>
+	</div>
+</div>
+		
+		<footer class="main-footer">
+			<div class="container">
+				<div class="row-fluid">
+					<div class="span3">
+						<h2>Company</h2>
+						<ul class="unstyled">
+							<li><a href="#" title="About Trigger.io">About</a></li>
+							<li><a href="#" title="Follow Trigger on Twitter">Twitter</a></li>
+							<li><a href="#" title="Join Trigger on Facebook">Facebook</a></li>
+							<li><a href="#" title="Join Trigger on StackOverflow">StackOverflow</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h2>Platform</h2>
+						<ul class="unstyled">
+							<li><a href="#">App Dev Blog</a></li>
+							<li><a href="#">Examples</a></li>
+							<li><a href="#">How it works</a></li>
+							<li><a href="#">Pricing</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h2>Legal</h2>
+						<ul class="unstyled">
+							<li><a href="#">Terms of service</a></li>
+							<li><a href="#">License agreement</a></li>
+							<li><a href="#">Privacy policy</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h2>Contact</h2>
+						<ul class="unstyled">
+							<li><a href="#" title="Contact Trigger on Twitter">@triggercorp</a></li>
+							<li><a href="#">support@trigger.io</a></li>
+							<li><a href="#">149, 9th Street, San Francisco</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div id="credits">
+			<div class="container">
+				<div class="row-fluid">
+					<div class="span12">
+						<span>Copyright &copy; <a href="#">Trigger.io </a> 2013 - Website Design by <a href="#">Squidge Inc</a></span>
+					</div>
+				</div>
+			</div>
+		</div>		
+	</body>
+</html>
